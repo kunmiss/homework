@@ -1,0 +1,538 @@
+*{
+	padding: 0;
+	margin: 0;
+	border: 0;
+	margin: 0 auto;
+}
+/*div {
+	border: black solid thin;
+}
+ul{
+	border: black solid thin;
+}
+li{
+	border: black solid thin;
+}*/
+#all{
+	width: 1335px;
+	height: 1406px;
+}
+.top1{
+	width: 1335px;
+	height: 35px;
+	position: relative;
+}
+.top2{
+	width: 1335px;
+	height: 161px;
+}
+.top3{
+	width: 1335px;
+	height: 487px;
+	position: relative;
+}
+.min1{
+	height: 101px;
+	width: 1335px;
+	position: relative;
+}
+.min2{
+	height: 60px;
+	width: 1335px;
+}
+.min3{
+	height: 377px;
+	width: 1335px;
+}
+.min4{
+	height: 64px;
+}
+.min5{
+	height: 72px;
+}
+.dao{
+	height: 60px;
+	width:980px;
+	position: relative;
+}
+.pot{
+	height: 377px;
+	width: 980px;
+
+}
+.logo{
+	height: 45px;
+	width: 286px;
+	position: absolute;
+	left: 170px;
+	top: 37px;
+}
+.sou{
+	width: 261px;
+	height: 33px;
+	position: absolute;
+	right: 170px;
+	top: 37px;
+}
+.word1{
+	width: 175px;
+	height: 17px;
+	position: absolute;
+	left: 183px;
+	top: 11px;
+	font-size: 12px;
+}
+.word1 a{
+	color: #b2b2b2;
+}
+.tubiao{
+	position: absolute;
+	top: 11px;
+}
+.img1{
+	position: absolute;
+	top: 28px;
+}
+.cha{
+	position: absolute;
+    top: 6px;
+    right: 14px;
+}
+.cha1{
+	position: absolute;
+	top: 0;
+}
+.cha2{
+	position: absolute;
+	right: 14px;
+	top: 0;
+}
+.cha4{
+	position: absolute;
+	right:50px;
+	top: 2px;
+}
+.cha5{
+	position: absolute;
+	top: 1px;
+}
+.cha6{
+	position: absolute;
+	top: 4px;
+}
+.dao2{
+	position: absolute;
+	top: 0;
+}
+.dao3{
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+.dao4{
+	position: absolute;
+	left: 24px;
+	top: 25px;
+}
+.dao1{
+	position: absolute;
+	top: 0;
+}
+.dao7{
+	position: absolute;
+	left: 90px;
+}
+.dao8{
+	position: absolute;
+	left: 135px;
+	top: 0;
+}
+.bai1{
+	width: 990px;
+	height: 470px;
+	position: relative;
+	top: 17px;
+}
+.xia11{
+	position: absolute;
+	top: 357px;
+	width: 982px;
+	height: 70px;
+	left: 4px;
+}
+.bai2{
+	width: 990px;
+}
+.text1{
+	position: absolute;
+	top: 378px;
+	width: 293px;
+	height: 19px;
+	left: 195px;
+}
+.text2{
+	position: absolute;
+	top: 384px;
+	left: 512px;
+	width:138px;
+	height: 9px; 
+}
+.img2{
+	position: absolute;
+	top: 0;
+}
+.bot{
+	width: 117px;
+	height:31px;
+	position: absolute;
+	top: 375px;
+	left: 673px;
+}
+.bot0{
+	position: absolute;
+	top: 0px;
+}
+.bot2{
+	position: absolute;
+	top: 11px;
+	left: 21px;
+}
+.bot3{
+	position: absolute;
+	top: 0;
+}
+.niu{
+	width: 23px;
+	height: 23px;
+	position: absolute;
+	top: 435px;
+}
+.niu0{
+	left: 482px;
+
+}
+.niu1{
+	left: 454px;
+}
+.niu2{
+	right: 456px;
+}
+.light{
+	position: absolute;
+	top: 425px;
+}
+.top4
+{
+	height: 651px;
+	width: 1335px;
+}
+.kuang1{
+	width: 989px;
+	height: 651px;
+	position: relative;
+}
+.top11{
+	width: 644px;
+	height: 266px;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+.top12{
+	width: 289px;
+	height: 266px;
+	position: absolute;
+	top: 0;
+	right: 22px;
+}
+.top21{
+	width: 641px;
+	height: 385px;
+	position: absolute;
+	top: 266px;
+	left: 0;
+}
+.top22{
+	width: 289px;
+	height: 385px;
+	position: absolute;
+	right: 22px;
+	top: 266px;
+}
+.logo11{
+	position: absolute;
+	top: 37px;
+	left: 24px;
+}
+.word11{
+	position: absolute;
+	top: 89px;
+	left: 24px;
+}
+.logo12{
+	position: absolute;
+	top: 37px;
+}
+.word12{
+	position: absolute;
+	top: 89px;
+}
+.bot21{
+	width: 98px;
+	height: 27px;
+	position: absolute;
+	left: 24px;
+	top: 239px;
+}
+.tw11{
+	position: absolute;
+	top: 8px;
+	left: 17px;
+}
+.logo21{
+	position: absolute;
+	left: 24px;
+	top: 72px;
+}
+.word21{
+	position: absolute;
+	left: 24px;
+	top: 125px;
+}
+
+.hei21{
+	width: 624px;
+	height: 162px;
+	position: absolute;
+	top: 181px;
+	left: 5px;
+
+}
+.p1{
+	position: absolute;
+	top: 20px;
+	left: 31px;
+	width: 136px;
+	height: 104px;
+}
+.p2{
+	position: absolute;
+	top: 20px;
+	left: 175px;
+	width: 136px;
+	height: 104px;
+}
+.p3{
+	position: absolute;
+	top: 20px;
+	left: 318px;
+	width: 136px;
+	height: 104px;
+}
+.p4{
+	position: absolute;
+	top: 20px;
+	left: 462px;
+	width: 136px;
+	height: 104px;
+}
+.zuo{
+	position: absolute;
+	top: 64px;
+	left: 10px;
+}
+.you{
+	position: absolute;
+	top: 64px;
+	right: 9px;
+}
+.p{
+	position: absolute;
+	top: 134px;
+}
+.p11{
+	left: 44px;
+}
+.p22{
+	left: 188px;
+}
+.p33{
+	left: 335px;
+}
+.p44{
+	left: 480px;
+}
+.logo22{
+	position: absolute;
+	top: 72px;
+}
+.word22{
+	position: absolute;
+	top: 125px;
+
+}
+.map22{
+	position: absolute;
+	top: 181px;
+}
+
+.xian11{
+	position: absolute;
+	top: 67px;
+}
+.xian21{
+	position: absolute;
+	top: 105px;
+}
+.xia111{
+	width: 421px;
+	height: 11px;
+	position: absolute;
+	top:  655px;
+	left: 23px;
+}
+.xia112{
+	width: 352px;
+	height: 12px;
+	position: absolute;
+	top: 655px;
+	left: 631px;
+}
+.biao{
+	position: absolute;
+	top: 261px;
+	right:157px;
+}
+#demo1{
+	position: absolute;
+	top: 6px;
+	left: 7px;
+	width: 975px;
+	height: 354px;
+}
+.a1{
+	position: absolute;
+	left: 0px;
+}
+.a2{
+	position: absolute;
+	left: 62px;
+}
+.a3{
+	position: absolute;
+	left: 119px;
+}
+.input{
+	width: 198px;
+	height: 24px;
+	position: absolute;
+    top: 5px;
+    left: 7px;
+    color: #858585;
+ }
+ ul li{
+ 	float: left;
+ }
+ .da1{
+ 	width: 88px;
+ 	height: 59px;
+ 	position: absolute;
+ 	left: 0px;
+ 	top: 0;
+ }
+ .da11{
+ 	position: absolute;
+ 	top: 22px;
+ 	left: 19px;
+ }
+ .da2{
+ 	width: 89px;
+ 	height: 59px;
+ 	position: absolute;
+ 	top: 0px;
+ 	left: 88px;
+ }
+ .da3{
+ 	width: 110px;
+ 	height: 59px;
+ 	position: absolute;
+ 	top: 0;
+ 	left: 177px;
+ }
+ .da4{
+ 	width: 110px;
+ 	height: 59px;
+ 	position: absolute;
+ 	left: 287px;
+ 	top: 0;
+ }
+ .da5{
+ 	width: 119px;
+ 	height: 59px;
+ 	position: absolute;
+ 	left: 397px;
+ 	top: 0;
+ }
+ .da6{
+ 	width: 79px;
+ 	height: 59px;
+ 	position: absolute;
+ 	left: 516px;
+ 	top: 0;
+
+ }
+ .da7{
+ 	width: 80px;
+ 	height: 59px;
+ 	position: absolute;
+ 	left: 595px;
+ 	top: 0;
+ }
+ .da8{
+ 	width: 115px;
+ 	height: 59px;
+ 	position: absolute;
+ 	left: 675px;
+ 	top: 0;
+ }
+ ul{
+ 	list-style: none;
+ }
+ .da22{
+ 	position: absolute;
+ 	top: 22px;
+ 	left: 10px;
+ }
+ .da33{
+ 	position: absolute;
+ 	top: 22px;
+ 	left: 10px;
+ }
+ .da44{
+ 	position: absolute;
+ 	top: 22px;
+ 	left: 10px;
+ }
+ .da55{
+ 	position: absolute;
+ 	top: 22px;
+ 	left: 10px;
+ }
+ .da66{
+ 	position: absolute;
+ 	top: 22px;
+ 	left: 10px;
+ }
+ .da77{
+ 	position: absolute;
+ 	top: 22px;
+ 	left: 10px;
+ }
+ .da88{
+ 	position: absolute;
+ 	top: 22px;
+ 	left: 10px;
+ }
+ .so{
+ 	border:#325f85 solid thin;
+ }
